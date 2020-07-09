@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class TestSiteConfig(AppConfig):
-    name = 'test_site'
+    name = 'test_app'
